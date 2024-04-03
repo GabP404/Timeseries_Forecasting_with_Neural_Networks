@@ -6,7 +6,7 @@
 	<img src="Images/head-image.png" height="250" />
 </p>
 
-The objective of this challenge was to train a regressor capable of accurately predicting future timesteps across various time series
+The objective of this challenge was to train a regressor capable of accurately predicting future timesteps across various time series.
 
 ### Architectural Exploration:
 
