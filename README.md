@@ -30,7 +30,7 @@ Despite our enthusiasm and efforts, we encountered significant challenges during
 
 ### Optimal Solution:
 
-After thorough experimentation and evaluation, we discovered that a synergistic fusion of Convolutional and LSTM mechanisms yielded the most promising results. This hybrid approach effectively captured both local patterns and long-term dependencies in the data, leading to robust predictions in our task.
+After thorough experimentation and evaluation, we found that combining Convolutional and LSTM mechanisms produced the best results. This hybrid approach proved to be the most robust for our task.
 
 ## More Information
 
